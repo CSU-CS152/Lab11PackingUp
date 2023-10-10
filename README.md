@@ -43,7 +43,7 @@ lst = [[1, 2, 3], [4 , 5, 6]]
 ```
 In order to index to 5, we would index it like this: 
 ```
-lst\[1]\[1] or (lst\[1])\[1]
+lst[1][1] or (lst[1])[1]
 ```
 To read it left to right, we are getting the list in lst at index 1 (\[4, 5, 6]) and then getting the item in that list at index 1 (5).
 
